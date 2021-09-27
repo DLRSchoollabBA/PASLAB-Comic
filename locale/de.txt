@@ -1,0 +1,19 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 14
+
+## Media
+
+### Titel
+panorama_2DC1E53E_2778_0805_41AA_11093BE97B1F.label = Test
+panorama_2DCB636F_2778_0803_41BF_F830D750DEB0.label = Design27SEP
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_2B161862_2778_3802_41B3_34FE034BEDA4.toolTip = Go to Paslab
