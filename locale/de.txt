@@ -5,17 +5,11 @@
 ### Beschreibung
 
 ### Titel
-tour.name = MARS-PASLAB
+tour.name = Unbenannt 15
 
 ## Media
 
 ### Titel
-panorama_2CD2C73F_27BC_80A6_41B5_AE233AFB342F.label = Design27SEP
-panorama_2DC1E53E_2778_0805_41AA_11093BE97B1F.label = Test
-panorama_2DCB636F_2778_0803_41BF_F830D750DEB0.label = Design27SEP
-
-## Hotspot
-
-### Tooltip
-HotspotPanoramaOverlayArea_2B161862_2778_3802_41B3_34FE034BEDA4.toolTip = Go to Paslab
-HotspotPanoramaOverlayArea_2B5A1D1D_27BD_806A_41BD_C917C87F21E2.toolTip = GoTo PASLAB-Comic
+panorama_9E55EFF0_9414_32CD_41CC_009E15F9C0E6.label = Design18Okt
+panorama_9E956087_9414_2D53_41D4_9F95459FCDFB.label = Design18Okt
+panorama_9ED2645C_9414_55F5_41C9_2C67C0E1C6EA.label = Design18Okt
