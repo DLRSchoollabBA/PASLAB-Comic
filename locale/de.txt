@@ -1,0 +1,18 @@
+#: locale=de
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Unbenannt 15____
+
+## Media
+
+### Titel
+panorama_9ED2645C_9414_55F5_41C9_2C67C0E1C6EA.label = Mars-Comic
+panorama_A899A2D2_A5DA_3AC3_41E1_02D29FD36FE3.label = Astrobio-Comic
+panorama_A8B8B7E9_A5E6_5AC1_41D9_08CD5AFBC73E.label = PASLAB-Comic
+video_84FC4FF3_94F4_32C5_41BB_4FBF135F917C.label = Rocket_Smoke
+video_851A84F0_94EC_36CD_41C7_ED03D192EBAE.label = Rocket_Smoke
+video_97416774_985F_40B5_41C0_65133B33CCF2.label = DLR_Smoke
